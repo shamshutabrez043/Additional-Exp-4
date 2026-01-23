@@ -27,4 +27,4 @@ class PerfectNumber {
 
 ```
 #output:
-![output of primitive](addi3.png)
+![output of primitive](addi4.png)
